@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe with sounds
+Enjoy playing Tic Tac Toe with engaging music in your break time.
